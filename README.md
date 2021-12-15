@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![Background_image](https://user-images.githubusercontent.com/72042861/146275330-fd8c3825-40c9-463d-9ffe-0be3e15f8455.jpg)
+
+### Hi there, I´m Franco Pizzi 👋💻
+
+
 
 <!--
 **francopizzi/francopizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
