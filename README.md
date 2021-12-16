@@ -74,7 +74,7 @@ let francoPizzi = {
 #### Contact me!!🚀
 <div style="display:flex; flex-direction:row; align-content:center">
       <img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" width="50" height="50"/> 
-      <p>linkedin.com/in/franco-pizzi</p>
+      <p style="color:blue;text-align:center">linkedin.com/in/franco-pizzi</p>
 </div>
 
 <img src="https://tout-ios.com/wp-content/uploads/2021/02/synchroniser-boite-mail-iphone.png?ezimgfmt=rs:321x321/rscb1/ng:webp/ngcb1" width="50" height="50" /> pizzifranco1@gmail.com
