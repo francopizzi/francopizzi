@@ -1,7 +1,7 @@
 
 ![Background_image](https://user-images.githubusercontent.com/72042861/146275330-fd8c3825-40c9-463d-9ffe-0be3e15f8455.jpg)
 
-#                                                                      Hi there, I´m Franco Pizzi 👋💻
+# Hi there, I´m Franco Pizzi 👋💻
 
 **Passionate about technology.**
 - *I enjoy innovating, creating, growing and generating solutions to daily recurrent problems.*
@@ -49,7 +49,10 @@ let francoPizzi = {
 }
 
 ```
+
+
 ## Projects images
+
 
 ### I. Videogames App
 #### Landing
