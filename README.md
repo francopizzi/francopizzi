@@ -74,17 +74,14 @@ let francoPizzi = {
 #### Contact me!!🚀
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franco-pizzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franco-pizzi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/franco-pizzi/" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" alt="https://www.linkedin.com/in/franco-pizzi/" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="pizzifranco1@gmail.com" target="blank"><img align="center" src="https://tout-ios.com/wp-content/uploads/2021/02/synchroniser-boite-mail-iphone.png?ezimgfmt=rs:321x321/rscb1/ng:webp/ngcb1" alt="https://www.linkedin.com/in/franco-pizzi/" height="30" width="40" /></a>
 </p>
 
 
-
-<div style="display:flex; flex-direction:row; align-content:center">
-      <img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" width="50" height="50"/> 
-      <p style="color:blue;text-align:center">linkedin.com/in/franco-pizzi</p>
-</div>
-
-<img src="https://tout-ios.com/wp-content/uploads/2021/02/synchroniser-boite-mail-iphone.png?ezimgfmt=rs:321x321/rscb1/ng:webp/ngcb1" width="50" height="50" /> pizzifranco1@gmail.com
 
 
 
