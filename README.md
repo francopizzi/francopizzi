@@ -4,7 +4,6 @@
 ### Hi there, I´m Franco Pizzi 👋💻
 
 const francopizzi = {
-
       tech_skills = [
       
       programming_languages = [ "Javascript" , "c#" , "Arduino" , "Matlab" , "Swift" , "TypeScript" ],
@@ -22,7 +21,6 @@ const francopizzi = {
       videogames_app = [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
       
       }
-
 }
 
 
