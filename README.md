@@ -71,8 +71,8 @@ let francoPizzi = {
 
 ```
 
-**Contact me!!**🚀
-<img src="https://e7.pngegg.com/pngimages/971/545/png-clipart-computer-icons-linkedin-others-miscellaneous-text.png" width:50px height:50px/>
+#### Contact me!!🚀
+<img src="https://e7.pngegg.com/pngimages/971/545/png-clipart-computer-icons-linkedin-others-miscellaneous-text.png" width="50" height="50"/>
 
 
 
