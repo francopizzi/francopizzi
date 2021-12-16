@@ -3,6 +3,7 @@
 
 ### Hi there, I´m Franco Pizzi 👋💻
 
+```
 const francopizzi = {
       tech_skills = [
       
@@ -23,7 +24,7 @@ const francopizzi = {
       }
 }
 
-
+```
 
 <!--
 **francopizzi/francopizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
