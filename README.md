@@ -38,7 +38,8 @@ let francoPizzi = {
                   end developed in Node Js. Express was used for adding extra functionalities to the original API. 
                   On the other hand, connecting a data base using Sequelize and PostgreSQL. 
                   Some features of the Project are: orders, filters, search by name, controlated form to add a new 
-                  game."
+                  game.",
+                  moreInformation: "https://github.com/francopizzi/Proyecto-individual"
             },
                   
             toDoApp : {
@@ -71,7 +72,7 @@ let francoPizzi = {
 
 ```
 
-#### Contact me!!🚀
+## Contact me!!🚀
 
 <p align="left">
 <a href="https://www.linkedin.com/in/franco-pizzi/" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" alt="https://www.linkedin.com/in/franco-pizzi/" height="50" width="50" /></a>
