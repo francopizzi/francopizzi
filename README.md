@@ -4,7 +4,6 @@
 ## Hi there, I´m Franco Pizzi 👋💻
 
 **Passionate about technology.**
-
        *I enjoy innovating, creating, growing and generating solutions to daily recurrent problems.*
        *The part that I enjoy of programming is when I have to resolve a problem of my code or*
        *when I start thinking how to implement a new functionality.*
@@ -50,8 +49,16 @@ const francoPizzi = {
 }
 
 ```
+### Videogames App
+            #### Landing
+            ![image](https://user-images.githubusercontent.com/72042861/146397205-3b802d94-a76f-403b-93f3-0a26b7cefa61.png)
+            
+            #### Home
+            ![image](https://user-images.githubusercontent.com/72042861/146397486-14748302-caef-466d-bcdc-f0af8179244e.png)               
 
-
+            #### Game Detail
+            ![image](https://user-images.githubusercontent.com/72042861/146397357-0bda77f8-000f-49bd-80a8-b8f263fee231.png)
+            
 
 
 
