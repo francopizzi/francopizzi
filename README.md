@@ -26,7 +26,7 @@ let francoPizzi = {
       
             },
       
-      projects : {
+      principalProjects : {
       
             videogamesApp : {
                   technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
@@ -38,8 +38,7 @@ let francoPizzi = {
                   end developed in Node Js. Express was used for adding extra functionalities to the original API. 
                   On the other hand, connecting a data base using Sequelize and PostgreSQL. 
                   Some features of the Project are: orders, filters, search by name, controlated form to add a new 
-                  game.",
-                  moreInformation: "https://github.com/francopizzi/Proyecto-individual"
+                  game."
             },
                   
             toDoApp : {
