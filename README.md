@@ -72,6 +72,13 @@ let francoPizzi = {
 ```
 
 #### Contact me!!🚀
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/franco-pizzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franco-pizzi/" height="30" width="40" /></a>
+</p>
+
+
+
 <div style="display:flex; flex-direction:row; align-content:center">
       <img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" width="50" height="50"/> 
       <p style="color:blue;text-align:center">linkedin.com/in/franco-pizzi</p>
