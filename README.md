@@ -72,7 +72,7 @@ let francoPizzi = {
 ```
 
 #### Contact me!!🚀
-<div style="display:flex; flex-direction:column; align-content:center">
+<div style="display:flex; flex-direction:row; align-content:center">
       <img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" width="50" height="50"/> 
       <p>linkedin.com/in/franco-pizzi</p>
 </div>
