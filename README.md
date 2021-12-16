@@ -3,7 +3,7 @@
 
 ### Hi there, I´m Franco Pizzi 👋💻
 
-```
+```javascript
 const francopizzi = {
       tech_skills = [
       
