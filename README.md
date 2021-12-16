@@ -19,8 +19,15 @@ const francopizzi = {
       
       projects = {
       
-      videogames_app = [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
+      videogames_app = {
+            technologies_used : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
+            description: ["Desarrollo de una SPA (Single Page Appication), la cual permite visualizar juegos traídos de una API (rawg.io/apidocs), 
+            además de los juegos generados por el usuario a partir de un formulario controlado, los cuales se almacenan en una base de datos 
+            relacional. 
+            Otras features de la aplicación son, filtrado por genero o donde se creo el juego, además ordenamiento ya sea, alfabético o rating. 
+            Por ultimo, realizar búsquedas por nombre de los juegos. "]
       
+      }
       }
 }
 
