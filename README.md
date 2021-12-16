@@ -1,33 +1,50 @@
 
 ![Background_image](https://user-images.githubusercontent.com/72042861/146275330-fd8c3825-40c9-463d-9ffe-0be3e15f8455.jpg)
 
-### Hi there, I´m Franco Pizzi 👋💻
+## Hi there, I´m Franco Pizzi 👋💻
+
+*Passionate about technology.
+       I enjoy innovating, creating, growing and generating solutions to daily recurrent problems.
+       The part that I enjoy of programming is when I have to resolve a problem of my code or
+       when I start thinking how to implement a new functionality.
+       I´m always looking to improve my skills and learned new technologyes.
+*
 
 ```javascript
-const francopizzi = {
-      tech_skills = [
+const francoPizzi = {
+      education: ["Electronic Engineer" , "Full Stack Developer"],
+      techSkills : [
       
-      programming_languages = [ "Javascript" , "c#" , "Arduino" , "Matlab" , "Swift" , "TypeScript" ],
+            programmingLanguages = [ "Javascript" , "c#" , "Arduino" , "Matlab" , "Swift" , "TypeScript" ],
       
-      back_end = [ "Node js" , "Express js" ],
+            backEnd = [ "Node js" , "Express js" ],
       
-      front_end = [ "React" , "Redux" , "CSS" , "HTML" , "Bootstrap" , "React Native" ],
+            frontEnd = [ "React" , "Redux" , "CSS" , "HTML" , "Bootstrap" , "React Native" ],
       
-      data_base = [ "Sequelize" , "PostgreSQL" ]
+            dataBase = [ "Sequelize" , "PostgreSQL" ]
       
-      ]
+            ],
       
-      projects = {
+      projects : {
       
-      videogames_app = {
-            technologies_used : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
-            description: ["Desarrollo de una SPA (Single Page Appication), la cual permite visualizar juegos traídos de una API (rawg.io/apidocs), 
-            además de los juegos generados por el usuario a partir de un formulario controlado, los cuales se almacenan en una base de datos 
-            relacional. 
-            Otras features de la aplicación son, filtrado por genero o donde se creo el juego, además ordenamiento ya sea, alfabético o rating. 
-            Por ultimo, realizar búsquedas por nombre de los juegos. "]
-      
-      }
+            videogamesApp : {
+                  technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
+                        "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
+                  description: ["Development of a SPA (Single Page Application), using React for the Front end 
+                  and Redux for managing application states. Components design was developed with pure css, 
+                  without external libraries. The SPA take data from an API (rawg.io/apidocs) throught the Back 
+                  end developed in Node Js. Express was used for adding extra functionalities to the original API. 
+                  On the other hand, connecting a data base using Sequelize and PostgreSQL. 
+                  Some features of the Project are: orders, filters, search by name, controlated form to add a new 
+                  game."]
+                  },
+            wirelessSignalAcquirer : {
+                  technologiesUsed : ["Arduino" , "c#"],
+                  description: ["nformation processing, wireless transmition and reception in a computer for visualization. 
+                              The programming languages used were:
+                              -Arduino for the transmition.
+                              -C# for the reception "]
+                  }      
       }
 }
 
