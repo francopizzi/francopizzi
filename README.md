@@ -72,7 +72,7 @@ let francoPizzi = {
 ```
 
 #### Contact me!!🚀
-<img src="https://e7.pngegg.com/pngimages/971/545/png-clipart-computer-icons-linkedin-others-miscellaneous-text.png" width="50" height="50"/>
+<img src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" width="50" height="50"/>
 
 
 
