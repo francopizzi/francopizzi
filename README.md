@@ -13,43 +13,74 @@
 ```javascript
 let francoPizzi = {
       education: ["Electronic Engineer" , "Full Stack Developer"],
-      techSkills : [
       
-            programmingLanguages = [ "Javascript" , "c#" , "Arduino" , "Matlab" , "Swift" , "TypeScript" ],
+      techSkills : {
       
-            backEnd = [ "Node js" , "Express js" ],
+            programmingLanguages : [ "Javascript" , "c#" , "Arduino" , "Matlab" , "Swift" , "TypeScript" ],
       
-            frontEnd = [ "React" , "Redux" , "CSS" , "HTML" , "Bootstrap" , "React Native" ],
+            backEnd : [ "Node js" , "Express js" ],
       
-            dataBase = [ "Sequelize" , "PostgreSQL" ]
+            frontEnd : [ "React" , "Redux" , "CSS" , "HTML" , "Bootstrap" , "React Native" ],
       
-            ],
+            dataBase : [ "Sequelize" , "PostgreSQL" ]
+      
+            },
       
       projects : {
       
             videogamesApp : {
                   technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
                         "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
-                  description: ["Development of a SPA (Single Page Application), using React for the Front end 
-                  and Redux for managing application states. Components design was developed with pure css, 
+                        
+                  description: "Development of a SPA (Single Page Application), using React for the Front end 
+                  and Redux for managing application states. Components design was developed with pure CSS, 
                   without external libraries. The SPA take data from an API (rawg.io/apidocs) throught the Back 
                   end developed in Node Js. Express was used for adding extra functionalities to the original API. 
                   On the other hand, connecting a data base using Sequelize and PostgreSQL. 
                   Some features of the Project are: orders, filters, search by name, controlated form to add a new 
-                  game."]
-                  },
+                  game."
+            },
+                  
+            toDoApp : {
+                  technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
+                        "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
+                  
+                  description: "Simple web application that allows you to create to-do items and folders to
+                  group them. As a user, you are able to create, edit and delete to-do items and mark/unmark 
+                  to-do items as completed. Furthermore, you can create and remove new folders. You are able
+                  to navigate to the item list inside a folder and manipulate them"
+            },
+            
+            weatherApp : {
+                  technologiesUsed : [ "Javascript" ,  "React" , "CSS" , "HTML"  ],
+                  
+                  description: "Development of a simple web APP, using React components to show the weather of
+                  diferents cities around the world. Also the design was made with pure CSS"
+            }.
+                  
             wirelessSignalAcquirer : {
                   technologiesUsed : ["Arduino" , "c#"],
-                  description: ["Information processing, wireless transmition and reception in a computer for visualization. 
+                  
+                  description: "Information processing, wireless transmition and reception in a computer for visualization. 
                               The programming languages used were:
                               -Arduino for the transmition.
-                              -C# for the reception "]
+                              -C# for the reception "
                   }      
       }
 }
 
 ```
 
+
+
+
+
+
+
+
+
+
+<!--
 
 ## Projects images
 
@@ -83,16 +114,6 @@ let francoPizzi = {
 ![image](https://user-images.githubusercontent.com/72042861/146401563-06aabea1-bbb0-420e-886d-b247875cfd56.png)
 
 ![image](https://user-images.githubusercontent.com/72042861/146401747-f8288869-19f2-47e0-92d6-fee5df7e36da.png)
-
-
-
-
-
-
-
-
-<!--
-
 
 
 **francopizzi/francopizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
