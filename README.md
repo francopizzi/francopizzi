@@ -4,10 +4,10 @@
 ## Hi there, I´m Franco Pizzi 👋💻
 
 **Passionate about technology.**
-       ◼*I enjoy innovating, creating, growing and generating solutions to daily recurrent problems.*
-       ◼*The part that I enjoy of programming is when I have to resolve a problem of my code or*
-       *when I start thinking how to implement a new functionality.*
-       ◼*I´m always looking to improve my skills and learned new technologyes.*
+- ◼*I enjoy innovating, creating, growing and generating solutions to daily recurrent problems.*
+- ◼*The part that I enjoy of programming is when I have to resolve a problem of my code or*
+*when I start thinking how to implement a new functionality.*
+- ◼*I´m always looking to improve my skills and learned new technologyes.*
 
 
 ```javascript
@@ -68,10 +68,13 @@ let francoPizzi = {
 
 #### Reception 
 *Matlab*
+
 ![image](https://user-images.githubusercontent.com/72042861/146401275-a350c85a-6b59-4291-b24e-e602323332a8.png)
 
 ![image](https://user-images.githubusercontent.com/72042861/146401344-a5ccfa9a-2027-4d18-824c-db1620c6642d.png)
+
 *Visual Studio*
+
 ![image](https://user-images.githubusercontent.com/72042861/146401563-06aabea1-bbb0-420e-886d-b247875cfd56.png)
 
 ![image](https://user-images.githubusercontent.com/72042861/146401747-f8288869-19f2-47e0-92d6-fee5df7e36da.png)
