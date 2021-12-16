@@ -60,16 +60,18 @@ let francoPizzi = {
 ![image](https://user-images.githubusercontent.com/72042861/146397357-0bda77f8-000f-49bd-80a8-b8f263fee231.png)
             
 
+
+
 ### Wireless Signal Acquirer
 #### The aim
 ![image](https://user-images.githubusercontent.com/72042861/146400495-1abc552a-c1af-4973-8fe4-5a3f93632c5f.png)
 
 #### Reception 
-      *Matlab*
+*Matlab*
 ![image](https://user-images.githubusercontent.com/72042861/146401275-a350c85a-6b59-4291-b24e-e602323332a8.png)
 
 ![image](https://user-images.githubusercontent.com/72042861/146401344-a5ccfa9a-2027-4d18-824c-db1620c6642d.png)
-      *Visual Studio
+*Visual Studio*
 ![image](https://user-images.githubusercontent.com/72042861/146401563-06aabea1-bbb0-420e-886d-b247875cfd56.png)
 
 ![image](https://user-images.githubusercontent.com/72042861/146401747-f8288869-19f2-47e0-92d6-fee5df7e36da.png)
