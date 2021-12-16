@@ -54,7 +54,7 @@ let francoPizzi = {
 ## Projects images
 
 
-### I. Videogames App
+### I. Videogames App 🎮
 #### Landing
 ![image](https://user-images.githubusercontent.com/72042861/146397205-3b802d94-a76f-403b-93f3-0a26b7cefa61.png)
             
@@ -67,7 +67,7 @@ let francoPizzi = {
 
 
 
-### II. Wireless Signal Acquirer
+### II. Wireless Signal Acquirer 🎓
 #### The aim
 ![image](https://user-images.githubusercontent.com/72042861/146400495-1abc552a-c1af-4973-8fe4-5a3f93632c5f.png)
 
