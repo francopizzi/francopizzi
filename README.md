@@ -4,10 +4,12 @@
 ## Hi there, I´m Franco Pizzi 👋💻
 
 **Passionate about technology.**
+
        *I enjoy innovating, creating, growing and generating solutions to daily recurrent problems.*
        *The part that I enjoy of programming is when I have to resolve a problem of my code or*
        *when I start thinking how to implement a new functionality.*
        *I´m always looking to improve my skills and learned new technologyes.*
+
 
 ```javascript
 const francoPizzi = {
@@ -49,7 +51,15 @@ const francoPizzi = {
 
 ```
 
+
+
+
+
+
 <!--
+
+#### Videogames App
+
 **francopizzi/francopizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
