@@ -29,8 +29,8 @@ let francoPizzi = {
       principalProjects : {
       
             TurnOn : {
-                  technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , "React Native",
-                        "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
+                  technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
+                  "React Native", "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
                         
                   description: "Development of a mobile App for users who want to book courts and a SPA
                   (Single Page Application) for suppliers who want to publish their courts, using agile 
