@@ -60,16 +60,6 @@ let francoPizzi = {
                   description: "My first aplication developed in React Native, this takes data from marvel API to obtain the information of each character in the saga. It was developed purely on the front end with React Native and Javascript."
             },
             
-            toDoApp : {
-                  technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
-                        "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
-                  
-                  description: "Simple web application that allows you to create to-do items and folders to
-                  group them. As a user, you are able to create, edit and delete to-do items and mark/unmark 
-                  to-do items as completed. Furthermore, you can create and remove new folders. You are able
-                  to navigate to the item list inside a folder and manipulate them"
-            },
-            
             weatherApp : {
                   technologiesUsed : [ "Javascript" ,  "React" , "CSS" , "HTML"  ],
                   
@@ -125,7 +115,15 @@ let francoPizzi = {
 #### Game Detail
 ![image](https://user-images.githubusercontent.com/72042861/146397357-0bda77f8-000f-49bd-80a8-b8f263fee231.png)
             
-
+toDoApp : {
+                  technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
+                        "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
+                  
+                  description: "Simple web application that allows you to create to-do items and folders to
+                  group them. As a user, you are able to create, edit and delete to-do items and mark/unmark 
+                  to-do items as completed. Furthermore, you can create and remove new folders. You are able
+                  to navigate to the item list inside a folder and manipulate them"
+            },
 
 
 ### II. Wireless Signal Acquirer 🎓
