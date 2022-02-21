@@ -77,6 +77,8 @@ let francoPizzi = {
 <a href="https://www.linkedin.com/in/franco-pizzi/" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-noire.png" alt="https://www.linkedin.com/in/franco-pizzi/" height="50" width="50" /></a>
 </p>
 
+<a href="https://portfolio-franco-pizzi.vercel.app/home" target="blank">🧰</a>
+
 📫 **pizzifranco1@gmail.com**
 
 
