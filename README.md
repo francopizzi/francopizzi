@@ -32,45 +32,60 @@ let francoPizzi = {
                   technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , "React Native",
                         "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
                         
-                  description: "Development of a mobile App for users who want to book courts and a SPA (Single Page Application) for suppliers who want to publish their courts, using agile methodologies. The Project was divided in three branches, Back end, App web y App Mobile. Personally, I had to participate in the last one. We use React Native for the Front end and Redux for managing application states. The functionalities that I had to participate in were, Login-Logout, Google login, Google register, favorites section, reservation management and payment through Mercado Pago. At the end of the project, I helped in the back end to carry out the availability and reservation routes."
+                  description: "Development of a mobile App for users who want to book courts and a SPA
+                  (Single Page Application) for suppliers who want to publish their courts, using agile 
+                  methodologies. The Project was divided in three branches, Back end, App web y App 
+                  Mobile. Personally, I had to participate in the last one. We use React Native for the 
+                  Front end and Redux for managing application states. The functionalities that I had to 
+                  participate in were, Login-Logout, Google login, Google register, favorites section, 
+                  reservation management and payment through Mercado Pago. At the end of the project, 
+                  I helped in the back end to carry out the availability and reservation routes."
             },
 
             videogamesApp : {
                   technologiesUsed : [ "Javascript" , "Node js" , , "Express js" , "React" , "Redux" , 
                         "CSS" , "HTML" , "Sequelize" , "PostgreSQL" ],
                         
-                  description: "Development of a SPA (Single Page Application), using React for the Front end 
-                  and Redux for managing application states. Components design was developed with pure CSS, 
-                  without external libraries. The SPA take data from an API (rawg.io/apidocs) throught the Back 
-                  end developed in Node Js. Express was used for adding extra functionalities to the original API. 
-                  On the other hand, connecting a data base using Sequelize and PostgreSQL. 
-                  Some features of the Project are: orders, filters, search by name, controlated form to add a new 
-                  game."
+                  description: "Development of a SPA (Single Page Application), using React for the 
+                  Front end and Redux for managing application states. Components design was 
+                  developed with pure CSS, without external libraries. The SPA take data from an API 
+                  (rawg.io/apidocs) throught the Back end developed in Node Js. Express was used for 
+                  adding extra functionalities to the original API. 
+                  On the other hand, connecting a data base using Sequelize and PostgreSQL. Some f
+                  eatures of the Project are: orders, filters, search by name, controlated form to add 
+                  a new game."
             },
             
             iOS-Calculator : {
                   technologiesUsed : ["Swift"],
                   
-                  description: "My first project developed in Swift, is a simple calculator similar in its functionallity to the native Apple but different in the interface. It allows addition, subtraction, multiplication, division, change of sign, percentage. Operations can be performed on both integers and decimals."
+                  description: "My first project developed in Swift, is a simple calculator similar in 
+                  its functionallity to the native Apple but different in the interface. It allows 
+                  addition, subtraction, multiplication, division, change of sign, percentage. 
+                  Operations can be performed on both integers and decimals."
             },
             
             MarvelApp : {
                   technologiesUsed : ["Javascript" , "React Native"],
                   
-                  description: "My first aplication developed in React Native, this takes data from marvel API to obtain the information of each character in the saga. It was developed purely on the front end with React Native and Javascript."
+                  description: "My first aplication developed in React Native, this takes data from 
+                  marvel API to obtain the information of each character in the saga. It was developed 
+                  purely on the front end with React Native and Javascript."
             },
             
             weatherApp : {
                   technologiesUsed : [ "Javascript" ,  "React" , "CSS" , "HTML"  ],
                   
-                  description: "Development of a simple web APP, using React components to show the weather of
-                  diferents cities around the world. Also the design was made with pure CSS"
+                  description: "Development of a simple web APP, using React components to show the 
+                  weather ofdiferents cities around the world. Also the design was made with pure 
+                  CSS"
             }.
                   
             wirelessSignalAcquirer : {
                   technologiesUsed : ["Arduino" , "c#"],
                   
-                  description: "Information processing, wireless transmition and reception in a computer for visualization. 
+                  description: "Information processing, wireless transmition and reception in a 
+                  computer for visualization. 
                               The programming languages used were:
                               -Arduino for the transmition.
                               -C# for the reception "
